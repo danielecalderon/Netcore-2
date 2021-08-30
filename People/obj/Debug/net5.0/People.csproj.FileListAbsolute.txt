@@ -1,0 +1,121 @@
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/appsettings.Development.json
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/appsettings.json
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.exe
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.deps.json
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.runtimeconfig.json
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.runtimeconfig.dev.json
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/ref/People.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/People.pdb
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.OpenApi.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.csproj.AssemblyReference.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.GeneratedMSBuildEditorConfig.editorconfig
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.AssemblyInfoInputs.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.AssemblyInfo.cs
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.csproj.CoreCompileInputs.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.MvcApplicationPartsAssemblyInfo.cs
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.MvcApplicationPartsAssemblyInfo.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/staticwebassets/People.StaticWebAssets.Manifest.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/staticwebassets/People.StaticWebAssets.xml
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/scopedcss/bundle/People.styles.css
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.RazorTargetAssemblyInfo.cache
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.csproj.CopyComplete
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.dll
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/ref/People.dll
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.pdb
+D:/Training/Web API Core/Daniel/People/People/obj/Debug/net5.0/People.genruntimeconfig.cache
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Humanizer.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Training/Web API Core/Daniel/People/People/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/appsettings.Development.json
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/appsettings.json
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/People.deps.json
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/People.runtimeconfig.json
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/People.runtimeconfig.dev.json
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/People.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/ref/People.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/People.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Humanizer.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.csproj.AssemblyReference.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.AssemblyInfoInputs.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.AssemblyInfo.cs
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.csproj.CoreCompileInputs.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.MvcApplicationPartsAssemblyInfo.cs
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.MvcApplicationPartsAssemblyInfo.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/staticwebassets/People.StaticWebAssets.Manifest.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/staticwebassets/People.StaticWebAssets.xml
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/scopedcss/bundle/People.styles.css
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.RazorTargetAssemblyInfo.cache
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.csproj.CopyComplete
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/ref/People.dll
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.pdb
+/Users/ZenDan06/Downloads/Daniel 2/People/People/obj/Debug/net5.0/People.genruntimeconfig.cache
